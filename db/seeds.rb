@@ -30,7 +30,7 @@ user1 = User.create(
   password: '123456',
   farmer: true
 )
-url1 = 'https://res.cloudinary.com/olya-kolesova/image/upload/v1630584682/be-natural/Farmers/Spitalfields_City_Farmer_dzsbv2.jpg'
+url1 = 'https://res.cloudinary.com/dlyrcpp77/image/upload/v1633015006/farms/Spitalfields_City_Farm_c03eyc.jpg'
 attach_photo(url1, user1, '1')
 
 user2 = User.create(
